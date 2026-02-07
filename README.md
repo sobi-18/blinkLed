@@ -19,5 +19,6 @@ The LED turns ON and OFF at a fixed time interval using delay().
 ##  Code
 See `blinkLed.ino`
 
+
 ## Demo
-Watch the demo video: blinkLed Demo.mp4
+Watch the demo ![blinkLedDemo-gif](https://github.com/user-attachments/assets/c830abce-b3f2-4c29-a761-83a44a668b9f)
